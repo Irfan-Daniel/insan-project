@@ -41,7 +41,7 @@
                 </div>
                 <div class="col-6">
                     <div class="form-group">
-                        <strong>Bilangan Anak (Isi "0" jika tiada anak / tidak berkahwin / bujang)<br>:</strong>
+                        <strong>Bilangan Anak (Isi "0" jika tiada anak / tidak berkahwin / bujang) panc<br>:</strong>
                         <input type="text" class="form-control" name="no_of_children" placeholder="Bilangan Anak">
                     </div>
                 </div>
